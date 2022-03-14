@@ -1,0 +1,13 @@
+body {
+    width: 400px;
+} h1 {
+    font-family: "Playfair Display", serif;
+} h2 {
+    text-align: left;
+} h3 {
+    text-align: left;
+} .hi {
+    color: #3a195e;
+    padding: 2px;
+    font-weight: bold;
+}
